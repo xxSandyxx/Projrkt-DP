@@ -1,4 +1,4 @@
-
+#include "stdafx.h"
 //dp state
 #include <cstdio>
 #include <cctype>
