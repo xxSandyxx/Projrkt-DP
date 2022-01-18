@@ -1,6 +1,5 @@
 #include "stdafx.h"
 //dp state
-#include "stdafx.h
 #include <cstdio>
 #include <cctype>
 #include <sstream>
