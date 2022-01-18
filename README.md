@@ -1,2 +1,5 @@
 # Projrkt-DP
-xyz
+Aleksandra Adrjańska
+Aleksandra Białas
+Hanna Mitan
+Valerii Daineko
